@@ -2,5 +2,5 @@
 
 this project is based on learning the commands used to print out an outcome. 
 
-#Printf
+# Printf
 printf function is used to print output on the screen
